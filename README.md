@@ -1,1 +1,1 @@
-# customer-churn
+Predicting whether a customer will churn from a telecommunication company using the dataset from Kaggle. The notebook includes exploratory data analysis, feature engineering, and creation of machine learning models to perform this classification task. 
